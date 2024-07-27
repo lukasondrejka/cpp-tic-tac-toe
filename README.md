@@ -1,10 +1,11 @@
 # Tic Tac Toe
 
-This is a simple Tic Tac Toe game implemented in C++ with using server-client architecture and sockets for communication.
+This is a simple Tic Tac Toe game implemented in C++ 
+with using client-server architecture and sockets for communication.
 
 ## Setup
 
-Tested on Linux.
+Linux is required to build and run the project (tested on Ubuntu).
 
 1. Build the project with `make`
 
